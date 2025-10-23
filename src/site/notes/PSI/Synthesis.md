@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psi/synthesis/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/psi/synthesis/"}
 ---
 
 The combination of concepts that creates a new one. This new concept 'binds' its constituents through [[PSI/Attraction\|attraction]], like a neutron to its electrons and protons. 

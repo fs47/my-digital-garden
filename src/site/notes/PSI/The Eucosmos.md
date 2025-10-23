@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psi/the-eucosmos/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/psi/the-eucosmos/"}
 ---
 
 The first [[PSI/Universes\|universe]] in the [[PSI/Chrysanthemum Cluster (Kikusekai)\|Kikusekai]], created by [[PSI/Birushana\|Birushana]] its [[PSI/Demiurge\|demiurge]]. This is where all the most powerful [[PSI/Psychic\|psychics]], [[PSI/Psychic Abilities\|individual psychic abilities]], and [[PSI/Collective Psychic Abilities\|collective psychic abilities]] that exist in the [[PSI/Chrysanthemum Cluster (Kikusekai)\|Kikusekai]] originated.

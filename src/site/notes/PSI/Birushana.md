@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psi/birushana/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/psi/birushana/"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psi/dual-processing/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/psi/dual-processing/"}
 ---
 
 [[PSI/Manifestation\|Manifesting]] two things separately is akin to multitasking; it is hard, if not impossible for some. Even if possible, the mental faculties are divided across both, effectively halving the speed of [[PSI/Restriction\|restriction]]. This is much easier to do with [[PSI/Psychic Abilities\|psychic abilities]], but the bar was not that high anyhow. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psi/the-miracle/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/psi/the-miracle/"}
 ---
 
 The miracle that allowed for psychic powers to exist, worked by [[PSI/Birushana\|Birushana]]. 

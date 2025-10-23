@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psi/collective-psychic-abilities/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/psi/collective-psychic-abilities/"}
 ---
 
 The existence of [[PSI/Individual Psychic Abilities\|individual abilities]] and [[PSI/The Miracle\|the miracle]] that created them was inquired upon by [[PSI/The Eucosmos\|the Eucosmos' residents]]. The fact that shortcuts could be [[PSI/Manifestation\|manifested]] was not lost on them. They would begin attempting to [[PSI/Manifestation\|manifest]] abilities on their own.

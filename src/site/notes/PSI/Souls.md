@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psi/souls/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/psi/souls/"}
 ---
 
 The non-physical representation of a physical thing or being that 'inhabits' it. 

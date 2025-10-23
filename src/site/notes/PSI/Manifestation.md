@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psi/manifestation/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/psi/manifestation/"}
 ---
 
 The process of [[PSI/Restriction\|restriction]] pertains to both the creative process of individuals, and the creation of [[PSI/Materia\|matter]]. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psi/levels-of-restriction/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/psi/levels-of-restriction/"}
 ---
 
 Here are the five stages of restriction:

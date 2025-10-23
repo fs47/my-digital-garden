@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psi/universe-clusters/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/psi/universe-clusters/"}
 ---
 
 Universe clusters are collections of [[PSI/Universes\|universes]] that have [[PSI/Attraction\|similar content]]. These universe clusters have a central point from which all [[PSI/Finality (Fatalism)\|subsequent]] [[PSI/Universes\|universes]] emerge. Even though they originate from that center, all of these universes are understood to exist [[PSI/Simultaneity (Eternalism)\|simultaneously]]. 

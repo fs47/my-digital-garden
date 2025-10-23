@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psi/time/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/psi/time/"}
 ---
 
 The organizing forces of [[PSI/Restriction\|restriction]] and [[PSI/Attraction\|attraction]] give order into a cloud of events, phenomena, etc.. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psi/universes/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/psi/universes/"}
 ---
 
 A universe is a [[PSI/Attraction\|collection]] of [[PSI/Time\|timelines]] with mutually identical phenomena, events, and things. They are also defined by their rules. 

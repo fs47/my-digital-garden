@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psi/dimensions/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/psi/dimensions/"}
 ---
 
 Essentially pocket [[PSI/Universes\|universes]] that [[PSI/Psychic\|psychics]] can [[PSI/Manifestation\|manifest]]. The [[PSI/Levels of Restriction\|process]] is buy and large complexer faster with a [[PSI/Dimensional Abilities\|dimensional ability]] than a [[PSI/Material Abilities\|material one]], because of the [[PSI/Levels of Restriction\|levels]] in which they operate.

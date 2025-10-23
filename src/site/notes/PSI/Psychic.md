@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/psi/psychic/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/psi/psychic/"}
 ---
 
 The most fundamental definition of a psychic is a being capable of [[PSI/Manifestation\|manifesting]]. In that sense, everyone can be a psychic. ***However,*** the sense in Tenjiki, BLOOD and Kami in Training is more complicated than this. It distinguishes between psychics and non-psychics:
